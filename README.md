@@ -1,6 +1,9 @@
-## Hi there 👋
+<h3 align="center">
+Hello, I am <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO" target="_blank" rel="noreferrer">Pavel</a> 👋
+</h3>
+
 <h2 align="center">
-I am an data engineer 💻, photographer 📸, and designer 🎨!
+I am a Data Engineer 💻
 </h2>
 
 ## 💼 Technical Skills
